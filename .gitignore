@@ -1,0 +1,4 @@
+# Ignore pdf and figma file in the time of pushing
+
+*.pdf
+*.fig
